@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephan</h1>
 <h3 align="center">A passionate software developer from the Netherlands</h3>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanvs" alt="stephanvs" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanvs&theme=onedark&margin-w=15&margin-h=15" alt="Stephanvs" /></a></p>
 
 - 🔭 I’m currently working on [Loupedeck Flight Control Deck](https://github.com/Stephanvs/loupedeck-msfs)
 - 🌱 I’m currently learning **Foundation of Functional Programming**
