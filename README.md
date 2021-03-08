@@ -3,7 +3,7 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanvs&theme=onedark&margin-w=15&margin-h=15" alt="Stephanvs" /></a></p>
 
-- 🔭 I’m currently working on [Loupedeck Flight Control Deck](https://github.com/Stephanvs/loupedeck-msfs)
+- 🔭 I’m currently working on [Loupedeck Flight Control Deck](https://github.com/Stephanvs/loupedeck-msfs) for Microsoft Flight Simulator 2020
 - 🌱 I’m currently learning **Foundation of Functional Programming**
 - 👨‍💻 All of my projects are available at [https://stephanvs.com/projects](https://stephanvs.com/projects)
 - 📝 I regulary write articles on [https://stephanvs.com/blog](https://stephanvs.com/blog)
