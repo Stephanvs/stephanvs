@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephan</h1>
 <h3 align="center">A passionate software developer from the Netherlands</h3>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanvs&theme=onedark&margin-w=15&margin-h=15" alt="Stephanvs" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanvs&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="Stephanvs" /></a></p>
 
 - 🔭 I’m currently working on:
   - ✈️ Antonov An-225 Aircraft DLC for Microsoft Flight Simulator 2020 (see: [SimX.dev](https://simx.dev))
