@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Aerodynamics and Flight characteristics**
 - 👨‍💻 All of my projects are available at [https://stephanvs.com/projects](https://stephanvs.com/projects)
 - 📝 I sometimes write on my [https://stephanvs.com/blog](https://stephanvs.com/blog)
+- ⌨️ I type on a [40% Planck Keyboard](https://stephanvs.com/blog/building-custom-40-ortho-keeb)
 - 💬 Ask me about **μServices, Architecture, Functional Programming**
 - 📫 How to reach me **stephan@hayman.io**
 - ⚡ Fun fact **I wrote an OS kernel once**
