@@ -4,14 +4,16 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanvs&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="Stephanvs" /></a></p>
 
 - 🔭 I’m currently working on:
-  - ✈️ Antonov An-225 Aircraft DLC for Microsoft Flight Simulator 2020 (see: [SimX.dev](https://simx.dev))
+  - ✈️ Training Instructor Operating Station for Flight Simulation Synthetic Training Device Control (@ [ProSim.aero](https://prosim.aero/#training-solutions))
+  - 🚀 Designing & Building a Thrust Vector Controlled Model Rocket ([Simply Rockets](https://simplyrockets.com))
+- ⌛ Some of my (past) work:
   - ✈️ [Loupedeck Flight Control Deck](https://github.com/Stephanvs/loupedeck-msfs) for Microsoft Flight Simulator 2020
   - ⚡ IoT Platform for collecting and managing billions of data points from energy meters for [Fudura](https://www.fudura.nl/en/metering-services)
 - 🌱 I’m currently learning **Aerodynamics and Flight characteristics**
 - 👨‍💻 All of my projects are available at [https://stephanvs.com/projects](https://stephanvs.com/projects)
 - 📝 I sometimes write on my [https://stephanvs.com/blog](https://stephanvs.com/blog)
 - ⌨️ I type on a [40% Planck Keyboard](https://stephanvs.com/blog/building-custom-40-ortho-keeb)
-- 💬 Ask me about **μServices, Architecture, Functional Programming**
+- 💬 Ask me about **μServices, Software Architecture, Functional Programming, Composition**
 - 📫 How to reach me **stephan@hayman.io**
 - ⚡ Fun fact **I wrote an OS kernel once**
 
